@@ -1,5 +1,5 @@
 
-onEvent('fluid.registry', event => 
+StartupEvents.registry('fluid', event => // changed onEvent here
 {
     event.create('solder')  
     .stillTexture('tfc:block/molten_still')

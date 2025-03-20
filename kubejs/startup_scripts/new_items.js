@@ -1,5 +1,5 @@
 
-onEvent('item.registry', event =>
+StartupEvents.registry('item', event => // changed onEvent here
 {
     event.create('crushed_bismuth_ore').displayName('Crushed Bismuth Ore')
     event.create('crushed_nickel_ore').displayName('Crushed Nickel Ore')

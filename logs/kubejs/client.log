@@ -1,9 +1,9 @@
-[11:59:46] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[11:59:46] [INIT] Loaded plugins:
-[11:59:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[11:59:46] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[11:59:46] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[11:59:46] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[11:59:46] [INFO] Loaded script client_scripts:example.js in 0.001 s
-[11:59:46] [INFO] Loaded 1/1 KubeJS client scripts in 0.009 s with 0 errors and 0 warnings
-[11:59:50] [INFO] Client resource reload complete!
+[13:38:13] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:38:13] [INIT] Loaded plugins:
+[13:38:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:38:13] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:38:13] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[13:38:13] [ERROR] ! Line 2: 'onEvent()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
+[13:38:13] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[13:38:13] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[13:38:13] [INFO] Loaded 1/2 KubeJS client scripts in 0.019 s with 0 errors and 0 warnings

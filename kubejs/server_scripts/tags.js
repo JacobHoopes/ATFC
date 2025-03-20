@@ -1,5 +1,5 @@
 
-onEvent('tags.blocks', event => 
+ServerEvents.tags('blocks', event => 
 {
     event.add('tfc:toughness_1', '@create')
 

@@ -2,7 +2,7 @@
 const tfcCalendar = java('net.dries007.tfc.util.calendar.Calendars') //only works if kubejs/config/common.properties has disableClassFilter = true
 
 
-onEvent('block.right_click', event=> 
+BlockEvents.rightClicked('block', event=> // changed onEvent here
 {
     //LIGHTING COAL FORGE
     if (event.block.id == 'minecraft:coal_block' && event.item == 'minecraft:flint_and_steel') {

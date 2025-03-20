@@ -1,5 +1,5 @@
 
-onEvent('recipes', event => 
+RecipeViewerEvents.removeEntries('recipes', event => // changed onEvent here (https://kubejs.com/wiki/events/RecipeViewerEvents/removeEntries) ("item" was "recipes")
 {
 	//removed for clarity of other recipes
 	event.remove({id: 'minecraft:charcoal'})
@@ -44,9 +44,12 @@ onEvent('recipes', event =>
 	event.remove({input: 'minecraft:honeycomb_block'})
 	event.remove({input: 'create:cinder_flour'})
 
+
+
 	event.remove({output: 'minecraft:mossy_cobblestone'})
 
-
+	// added to this list by Infinity_Broken
+	// event.remove({input: 'minecraft:rabbit_hide'})
 
 	//removed to prevent access
 	event.remove({id: 'minecraft:coal_block'})
@@ -82,4 +85,8 @@ onEvent('recipes', event =>
 	event.remove({output: 'create:brass_ingot'})
 	event.remove({output: 'create:brass_nugget'})
 	event.remove({output: 'create:experience_nugget'})
+
+
+	// added to this list by Infinity_Broken
+	// event.remove({output: })
 })
