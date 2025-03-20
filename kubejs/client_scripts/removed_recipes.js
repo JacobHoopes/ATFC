@@ -1,5 +1,5 @@
 
-RecipeViewerEvents.removeEntries('recipes', event => // changed onEvent here (https://kubejs.com/wiki/events/RecipeViewerEvents/removeEntries) ("item" was "recipes")
+JEIEvents.removeRecipes(event => // changed onEvent here
 {
 	//removed for clarity of other recipes
 	event.remove({id: 'minecraft:charcoal'})

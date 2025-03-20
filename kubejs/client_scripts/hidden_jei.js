@@ -1,5 +1,4 @@
-
-onEvent('jei.hide.items', event => 
+JEIEvents.hideItems(event => // changed onEvent here
 {
     event.hide('minecraft:copper_ingot')
     event.hide('minecraft:iron_ingot')
@@ -24,7 +23,7 @@ onEvent('jei.hide.items', event =>
     event.hide('kubejs:incomplete_circular_saw')
 })
 
-onEvent('jei.hide.fluids', event =>
+JEIEvent.hideFluids(event => // changed onEvent here
 {
     event.hide('kubejs:potion_beer')
     event.hide('kubejs:potion_cider')
@@ -45,7 +44,8 @@ onEvent('jei.hide.fluids', event =>
     event.hide('kubejs:potion_strong_rye_whiskey')
 })
 
-onEvent('jei.remove.categories', event => {
+JEIEvents.removeCategories(event => // changed onEvent here
+{ 
     event.remove('minecraft:anvil')
     event.remove('minecraft:brewing')
     event.remove('minecraft:blasting')
@@ -59,3 +59,4 @@ onEvent('jei.remove.categories', event => {
 
     event.remove('create:fan_haunting')
 })
+
