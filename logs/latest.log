@@ -151,3 +151,253 @@
 [13:38:17] [Render thread/INFO]: Initialized me.frankv.jmi.JMIJourneyMapPlugin
 [13:38:17] [Forge Version Check/INFO]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
 [13:38:17] [Forge Version Check/INFO]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[13:38:18] [Forge Version Check/INFO]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[13:38:18] [Forge Version Check/INFO]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[13:38:19] [Forge Version Check/INFO]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[13:38:19] [Forge Version Check/INFO]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[13:38:19] [Forge Version Check/INFO]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[13:38:19] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[13:38:19] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:weak_blue_steel_sheet#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/weak_blue_steel_sheet
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:blue_steel_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/blue_steel_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:crushed_silver_ore#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/crushed_silver_ore
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:steel_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/steel_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:circular_saw#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/circular_saw
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:crushed_nickel_ore#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/crushed_nickel_ore
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:bone_broth#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/bone_broth
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:incomplete_circular_saw#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/incomplete_circular_saw
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:crushed_tin_ore#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/crushed_tin_ore
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:crystalisation_catalyst#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/crystalisation_catalyst
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:crushed_bismuth_ore#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/crushed_bismuth_ore
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:sugarcane_strip#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/sugarcane_strip
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:black_bronze_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/black_bronze_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:wood_ash#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/wood_ash
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:wrought_iron_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/wrought_iron_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:bismuth_bronze_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/bismuth_bronze_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:bronze_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/bronze_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:red_steel_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/red_steel_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:incomplete_brass_mechanisms#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/incomplete_brass_mechanisms
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:propeller_blade#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/propeller_blade
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:weak_red_steel_sheet#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/weak_red_steel_sheet
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:copper_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/copper_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:weak_steel_sheet#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/weak_steel_sheet
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:black_steel_chain_mesh#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/black_steel_chain_mesh
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:unknown_sheet#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/unknown_sheet
+[13:38:20] [Worker-Main-7/WARN]: Missing textures in model kubejs:pig_iron_sheet#inventory:
+    minecraft:textures/atlas/blocks.png:kubejs:item/pig_iron_sheet
+[13:38:20] [Worker-Main-5/INFO]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[13:38:20] [Worker-Main-5/INFO]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[13:38:20] [Worker-Main-5/INFO]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[13:38:20] [Worker-Main-5/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[13:38:20] [Worker-Main-5/INFO]: Start loading plugin at net.dries007.tfc.compat.jade.JadeIntegration
+[13:38:20] [Worker-Main-3/INFO]: Registering Ponder Scenes took 31.42 ms
+[13:38:20] [Worker-Main-3/INFO]: Registering Ponder Tags took 2.332 ms
+[13:38:24] [Render thread/INFO]: OpenAL initialized on device CoreAudio Default
+[13:38:24] [Render thread/INFO]: Sound engine started
+[13:38:24] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/blocks.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/signs.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 2048x2048x4 minecraft:textures/atlas/armor_trims.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/chest.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[13:38:24] [Render thread/WARN]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[13:38:24] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[13:38:24] [Render thread/INFO]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[13:38:24] [Render thread/INFO]: Loaded 77 shader sources in 19.976 ms
+[13:38:24] [Render thread/INFO]: BookContentResourceListenerLoader preloaded 706 jsons
+[13:38:24] [Render thread/INFO]: Loaded 51 train hat configurations.
+[13:38:25] [Render thread/WARN]: Flywheel backend fell back from 'flywheel:indirect' to 'flywheel:instancing'
+[13:38:42] [Render thread/INFO]: Created 141 recipes which will be injected into the game
+[13:38:42] [Render thread/INFO]: Created 0 tags which will be injected into the game
+[13:38:42] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[13:38:45] [Render thread/INFO]: Loaded script server_scripts:tags.js in 0.0 s
+[13:38:45] [Render thread/ERROR]: Line 2: 'java()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
+[13:38:45] [Render thread/INFO]: Loaded script server_scripts:configured.js in 0.001 s
+[13:38:45] [Render thread/ERROR]: removed_recipes.js#2: ReferenceError: "RecipeViewerEvents" is not defined.
+[13:38:45] [Render thread/INFO]: Loaded 2/4 KubeJS server scripts in 0.022 s with 2 errors and 0 warnings
+[13:38:45] [Render thread/INFO]: Scripts loaded
+[13:38:46] [Render thread/INFO]: Loaded 42 recipes
+[13:38:46] [Render thread/INFO]: Loaded 5278 advancements
+[13:38:46] [Render thread/INFO]: Loaded 28 metal(s).
+[13:38:46] [Render thread/INFO]: Loaded 5 knapping_types(s).
+[13:38:46] [Render thread/INFO]: Loaded 29 fuel(s).
+[13:38:46] [Render thread/INFO]: Loaded 5 drinkable(s).
+[13:38:46] [Render thread/INFO]: Loaded 1 support(s).
+[13:38:46] [Render thread/INFO]: Loaded 80 panning(s).
+[13:38:46] [Render thread/INFO]: Loaded 80 sluicing(s).
+[13:38:46] [Render thread/INFO]: Loaded 3 lamp_fuel(s).
+[13:38:46] [Render thread/INFO]: Loaded 9 fertilizer(s).
+[13:38:46] [Render thread/INFO]: Loaded 56 item size(s).
+[13:38:46] [Render thread/INFO]: Loaded 43 / 43 climate range(s).
+[13:38:46] [Render thread/INFO]: Loaded 63 / 63 fauna(s).
+[13:38:46] [Render thread/INFO]: Loaded 626 item heat(s).
+[13:38:46] [Render thread/INFO]: Loaded 170 food(s).
+[13:38:46] [Render thread/INFO]: Loaded 3 entity_damage_resistances(s).
+[13:38:46] [Render thread/INFO]: Loaded 2 item_damage_resistances(s).
+[13:38:49] [Render thread/INFO]: Successfully captured server recipe manager
+[13:38:49] [Render thread/INFO]: Performing setup for item stack size editing.
+[13:38:49] [Render thread/INFO]: Editing item stack sizes: found 6338 editable of 6903 total.
+[13:38:49] [Render thread/WARN]: Experimental world gen... dragons or some such.. blah blah.
+[13:38:49] [Server thread/INFO]: Starting integrated minecraft server version 1.20.1
+[13:38:49] [Server thread/INFO]: Generating keypair
+[13:38:49] [Server thread/INFO]: loaded team data: 1 known players, 1 teams total
+[13:38:49] [Server thread/INFO]: Updating TFC Relevant Game Rules for level minecraft:overworld.
+[13:38:49] [Server thread/INFO]: Editing item stack sizes: found 6338 editable of 6903 total.
+[13:38:49] [Server thread/INFO]: Updating TFC Relevant Game Rules for level minecraft:the_nether.
+[13:38:49] [Server thread/INFO]: Updating TFC Relevant Game Rules for level minecraft:the_end.
+[13:38:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:38:49] [Server thread/INFO]: Server resource reload complete!
+[13:38:50] [Render thread/INFO]: Preparing spawn area: 0%
+[13:38:50] [Render thread/INFO]: Preparing spawn area: 0%
+[13:38:50] [Render thread/INFO]: Preparing spawn area: 0%
+[13:38:51] [Render thread/INFO]: Preparing spawn area: 0%
+[13:38:51] [Server thread/INFO]: Successfully initialized permission handler forge:default_handler
+[13:38:51] [Render thread/INFO]: Time elapsed: 1924 ms
+[13:38:51] [Server thread/INFO]: Sending reload packet to clients
+[13:38:51] [Server thread/INFO]: Changing view distance to 20, from 10
+[13:38:51] [Server thread/INFO]: Changing simulation distance to 20, from 0
+[13:38:51] [Render thread/WARN]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
+[13:38:52] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[13:38:52] [Server thread/INFO]: Infinity_Broken[local:E:35e69209] logged in with entity id 139 at (-3000.15212530453, 65.875, -1349.7957878176878)
+[13:38:52] [Server thread/INFO]: Infinity_Broken joined the game
+[13:38:52] [Render thread/WARN]: Flywheel backend fell back from 'flywheel:indirect' to 'flywheel:instancing'
+[13:38:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
+[13:38:52] [Render thread/INFO]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
+[13:38:52] [Render thread/INFO]: Started 2 worker threads
+[13:38:52] [Render thread/INFO]: Ignored metal(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored knapping_types(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored fuel(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored fertilizer(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored item_damage_resistances(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored item heat(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored food(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored item size(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored climate range(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored drinkable(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored lamp_fuel(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored panning(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored sluicing(s) sync from logical server
+[13:38:52] [Render thread/INFO]: Ignored support(s) sync from logical server
+[13:38:52] [Server thread/INFO]: Syncing config to Infinity_Broken (960653bf-6abd-4133-b041-7e299c86712e)
+[13:38:52] [Server thread/INFO]: Player Logged In - Checking for Calendar Updates.
+[13:38:52] [Server thread/INFO]: Calendar = true, Daylight = true due to players logged in
+[13:38:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
+[13:38:52] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
+[13:38:52] [Render thread/INFO]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
+[13:38:52] [Render thread/INFO]: Starting JEI...
+[13:38:52] [Render thread/INFO]: Registering item subtypes...
+[13:38:52] [Render thread/INFO]: Registering item subtypes took 1.221 ms
+[13:38:52] [Render thread/INFO]: Registering fluid subtypes...
+[13:38:52] [Render thread/INFO]: Registering fluid subtypes took 659.9 μs
+[13:38:52] [Render thread/INFO]: Registering ingredients...
+[13:38:52] [Render thread/WARN]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Operator Utilities
+[13:38:52] [Render thread/INFO]: Registering ingredients: jei:minecraft took 51.76 milliseconds
+[13:38:52] [Render thread/INFO]: Registering ingredients took 52.08 ms
+[13:38:52] [Render thread/INFO]: Registering extra ingredients...
+[13:38:52] [Render thread/INFO]: Registering extra ingredients took 881.7 μs
+[13:38:52] [Render thread/INFO]: Registering search ingredient aliases...
+[13:38:52] [Render thread/INFO]: Registering search ingredient aliases took 190.2 μs
+[13:38:52] [Render thread/INFO]: Registering categories...
+[13:38:52] [Render thread/INFO]: Registering categories: create:jei_plugin took 13.27 milliseconds
+[13:38:52] [Render thread/INFO]: Registering categories took 22.32 ms
+[13:38:52] [Render thread/INFO]: Registering vanilla category extensions...
+[13:38:52] [Render thread/INFO]: Registering vanilla category extensions took 1.284 ms
+[13:38:52] [Render thread/INFO]: Registering recipe catalysts...
+[13:38:52] [Render thread/INFO]: Registering recipe catalysts took 1.252 ms
+[13:38:52] [Render thread/INFO]: Building recipe registry...
+[13:38:52] [Render thread/INFO]: Building recipe registry took 5.532 ms
+[13:38:52] [Render thread/INFO]: Registering advanced plugins...
+[13:38:52] [Render thread/INFO]: Registering advanced plugins took 165.4 μs
+[13:38:52] [Render thread/INFO]: Registering recipes...
+[13:38:53] [Render thread/INFO]: Registering recipes: jei:minecraft took 237.2 milliseconds
+[13:38:53] [Render thread/INFO]: Registering recipes: create:jei_plugin took 231.8 milliseconds
+[13:38:53] [Render thread/INFO]: Registering recipes: tfc:jei took 32.46 milliseconds
+[13:38:53] [Render thread/INFO]: Registering recipes took 502.2 ms
+[13:38:53] [Render thread/INFO]: Registering recipes transfer handlers...
+[13:38:53] [Render thread/INFO]: Registering recipes transfer handlers took 2.617 ms
+[13:38:53] [Render thread/INFO]: Building runtime...
+[13:38:53] [Render thread/INFO]: Registering gui handlers...
+[13:38:53] [Render thread/INFO]: Registering gui handlers took 3.030 ms
+[13:38:53] [Render thread/INFO]: Registering Runtime...
+[13:38:53] [Render thread/INFO]: Starting JEI GUI
+[13:38:53] [Render thread/INFO]: Building ingredient list...
+[13:38:53] [Render thread/INFO]: Building ingredient list took 45.94 ms
+[13:38:53] [Render thread/INFO]: Building ingredient filter...
+[13:38:53] [Render thread/INFO]: Adding 7255 ingredients
+[13:38:53] [Render thread/INFO]: Added 7255 ingredients
+[13:38:53] [Render thread/INFO]: Building ingredient filter took 375.8 ms
+[13:38:53] [Render thread/INFO]: Registering Runtime: jei:forge_gui took 459.3 milliseconds
+[13:38:53] [Render thread/INFO]: Registering Runtime took 459.7 ms
+[13:38:53] [Render thread/INFO]: Building runtime took 465.0 ms
+[13:38:53] [Render thread/INFO]: Sending Runtime...
+[13:38:53] [Render thread/INFO]: Sending Runtime took 131.2 μs
+[13:38:53] [Render thread/INFO]: Starting JEI took 1.075 s
+[13:38:53] [Render thread/INFO]: Loading FTB Chunks client data from world 14cea7d9-a137-40f9-948a-503acb8d3236
+[13:38:53] [Render thread/INFO]: [System] [CHAT] KubeJS errors found [2]! Run '/kubejs errors server' for more info
+[13:38:53] [Render thread/INFO]: Received config from the server: 
+[13:38:54] [Render thread/INFO]: Loaded 52 advancements
+[13:38:54] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 787.8 μs
+[13:38:54] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 520.8 μs
+[13:38:54] [Render thread/INFO]: BookContentResourceListenerLoader: Files found in 476.9 μs
+[13:38:54] [Render thread/INFO]: [System] [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[13:38:57] [Server thread/INFO]: Saving and pausing game...
+[13:38:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:38:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:38:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:39:10] [Server thread/INFO]: Saving and pausing game...
+[13:39:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:39:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:39:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:39:13] [Render thread/INFO]: Stopping!
+[13:39:13] [Render thread/INFO]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
+[13:39:13] [Render thread/INFO]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[13:39:13] [Render thread/INFO]: Stopping JEI
+[13:39:13] [Render thread/INFO]: Sending Runtime Unavailable...
+[13:39:13] [Render thread/INFO]: Stopping JEI GUI
+[13:39:13] [Render thread/INFO]: Sending Runtime Unavailable took 994.6 μs
+[13:39:13] [Server thread/INFO]: Infinity_Broken lost connection: Disconnected
+[13:39:13] [Server thread/INFO]: Infinity_Broken left the game
+[13:39:13] [Server thread/INFO]: Player Logged Out - Checking for Calendar Updates.
+[13:39:13] [Server thread/INFO]: Calendar = false, Daylight = false (true) due to no players logged in
+[13:39:13] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[13:39:13] [Server thread/INFO]: Stopping server
+[13:39:13] [Server thread/INFO]: Saving players
+[13:39:13] [Server thread/INFO]: Saving worlds
+[13:39:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[13:39:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[13:39:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[13:39:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[13:39:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:39:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:39:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:39:17] [Render thread/INFO]: Shutting down map thread

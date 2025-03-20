@@ -1,12 +1,12 @@
-[13:16:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[13:16:50] [INIT] Loaded plugins:
-[13:16:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[13:16:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[13:16:50] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[13:16:50] [INFO] Loaded script server_scripts:tags.js in 0.0 s
-[13:16:50] [ERROR] ! Line 2: 'java()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
-[13:16:50] [INFO] Loaded script server_scripts:configured.js in 0.0 s
-[13:16:50] [ERROR] ! removed_recipes.js#2: ReferenceError: "RecipeViewerEvents" is not defined.
-[13:16:50] [INFO] Loaded 2/4 KubeJS server scripts in 0.012 s with 2 errors and 0 warnings
-[13:16:50] [INFO] Scripts loaded
-[13:16:53] [INFO] Server resource reload complete!
+[13:38:45] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[13:38:45] [INIT] Loaded plugins:
+[13:38:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[13:38:45] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[13:38:45] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[13:38:45] [INFO] Loaded script server_scripts:tags.js in 0.0 s
+[13:38:45] [ERROR] ! Line 2: 'java()' is no longer supported! Read more on wiki: https://kubejs.com/kjs6
+[13:38:45] [INFO] Loaded script server_scripts:configured.js in 0.001 s
+[13:38:45] [ERROR] ! removed_recipes.js#2: ReferenceError: "RecipeViewerEvents" is not defined.
+[13:38:45] [INFO] Loaded 2/4 KubeJS server scripts in 0.022 s with 2 errors and 0 warnings
+[13:38:45] [INFO] Scripts loaded
+[13:38:49] [INFO] Server resource reload complete!

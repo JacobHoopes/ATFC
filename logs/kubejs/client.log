@@ -7,3 +7,4 @@
 [13:38:13] [INFO] example.js#5: Hello, World! (Loaded client scripts)
 [13:38:13] [INFO] Loaded script client_scripts:example.js in 0.001 s
 [13:38:13] [INFO] Loaded 1/2 KubeJS client scripts in 0.019 s with 0 errors and 0 warnings
+[13:38:16] [INFO] Client resource reload complete!
