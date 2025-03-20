@@ -1,0 +1,7 @@
+#5DA tfc:deep_ocean
+#041 tfc:hills
+#6ED tfc:ocean
+#6A4 tfc:ocean_reef
+#5D8 tfc:plains
+#25C tfc:shore
+#284 tfc:tidal_flats
