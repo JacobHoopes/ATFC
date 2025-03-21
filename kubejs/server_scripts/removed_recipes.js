@@ -1,5 +1,5 @@
 
-JEIEvents.removeRecipes(event => // changed onEvent here
+ServerEvents.recipes(event => // changed onEvent here
 {
 	//removed for clarity of other recipes
 	event.remove({id: 'minecraft:charcoal'})
@@ -86,6 +86,8 @@ JEIEvents.removeRecipes(event => // changed onEvent here
 	event.remove({output: 'create:brass_nugget'})
 	event.remove({output: 'create:experience_nugget'})
 
+
+	console.log('Hello! The recipe event has fired!')
 
 	// added to this list by Infinity_Broken
 	// event.remove({output: })
