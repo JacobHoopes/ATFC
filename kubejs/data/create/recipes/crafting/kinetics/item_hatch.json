@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "create:andesite_alloy"
+      },
+      {
+        "item": "tfc:metal/trapdoor/wrought_iron"
+      }
+    ],
+    "result": {
+      "item": "create:item_hatch"
+    }
+}

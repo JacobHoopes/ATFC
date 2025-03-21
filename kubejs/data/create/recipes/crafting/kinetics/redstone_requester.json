@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "S",
+    "I"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone" 
+    },
+    "S": {
+      "item": "create:stock_link" 
+    },
+    "I": {
+      "item": "tfc:metal/ingot/wrought_iron" 
+    }
+  },
+  "result": {
+    "item": "create:redstone_requester"
+  }
+}

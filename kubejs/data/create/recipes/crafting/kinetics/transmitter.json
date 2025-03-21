@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "CCC",
+    " R "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lightning_rod" 
+    },
+    "C": {
+      "item": "tfc:metal/sheet/copper" 
+    },
+    "R": {
+      "item": "minecraft:redstone" 
+    }
+  },
+  "result": {
+    "item": "create:transmitter"
+  }
+}

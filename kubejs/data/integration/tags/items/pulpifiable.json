@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "#tfc:seeds",
+        "#tfc:plants",
+        "#tfc:firepit_sticks",
+        "tfc:straw"
+    ]
+}

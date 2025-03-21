@@ -1,5 +1,5 @@
 
-const tfcCalendar = java('net.dries007.tfc.util.calendar.Calendars') //only works if kubejs/config/common.properties has disableClassFilter = true
+const tfcCalendar = Java.loadClass('net.dries007.tfc.util.calendar.Calendars') //only works if kubejs/config/common.properties has disableClassFilter = true
 
 
 BlockEvents.rightClicked('block', event=> // changed onEvent here

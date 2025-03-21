@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " D ",
+      " B ",
+      " A "
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:orange_dye" 
+      },
+      "B": {
+        "tag": "tfc:barrels" 
+      },
+      "A": {
+        "item": "create:andesite_alloy" 
+      }
+    },
+    "result": {
+      "item": "create:orange_postbox"
+    }
+}

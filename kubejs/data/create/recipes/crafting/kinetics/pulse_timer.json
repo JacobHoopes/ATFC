@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GBR",
+    "SSS"
+  ],
+  "key": {
+    "G": {
+      "tag": "integration:gems" 
+    },
+    "B": {
+      "item": "tfc:metal/sheet/brass" 
+    },
+    "R": {
+      "item": "minecraft:redstone_torch" 
+    },
+    "S": {
+      "tag": "forge:smooth_stone" 
+    }
+  },
+  "result": {
+    "item": "create:pulse_timer"
+  }
+}

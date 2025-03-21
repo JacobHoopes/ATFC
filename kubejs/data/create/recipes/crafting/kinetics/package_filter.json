@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZBZ"
+  ],
+  "key": {
+    "Z": {
+      "item": "tfc:metal/rod/zinc" 
+    },
+    "B": {
+      "item": "tfc:burlap_cloth" 
+    }
+  },
+  "result": {
+    "item": "create:package_filter",
+    "count": 2
+  }
+}

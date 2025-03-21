@@ -50,6 +50,18 @@ ServerEvents.recipes(event => // changed onEvent here
 
 	// added to this list by Infinity_Broken
 	// event.remove({input: 'minecraft:rabbit_hide'})
+	// event.remove({output: 'create:item_hatch'})
+	event.remove({input: 'minecraft:iron_trapdoor'})
+	event.remove({input: 'minecraft:iron_ingot'})
+	event.remove({input: 'minecraft:barrel'})
+	event.remove({input: 'create:copper_sheet'})
+	event.remove({input: 'minecraft:amethyst_shard'})
+	event.remove({input: 'create:brass_sheet'})
+	event.remove({input: 'create:golden_sheet'})
+
+	event.remove({id: 'create:mixing/cardboard_pulp'})
+	event.remove({input: 'create:zinc_nugget'})
+	
 
 	//removed to prevent access
 	event.remove({id: 'minecraft:coal_block'})
@@ -87,8 +99,9 @@ ServerEvents.recipes(event => // changed onEvent here
 	event.remove({output: 'create:experience_nugget'})
 
 
-	console.log('Hello! The recipe event has fired!')
+	// console.log('Hello! The recipe event has fired!')
 
 	// added to this list by Infinity_Broken
-	// event.remove({output: })
+	// event.remove({output: 'minecraft:wooden_sword'})
+	// event.remove({output: 'minecraft:diamond_sword'})
 })
