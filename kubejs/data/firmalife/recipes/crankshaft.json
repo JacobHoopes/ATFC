@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SM",
+        " B"
+    ],
+    "key": {
+      "S": {
+        "item": "create:shaft"
+      },
+      "M": {
+        "item": "tfc:brass_mechanisms"
+      },
+      "B": {
+        "item": "tfc:metal/sheet/brass"
+      }
+    },
+    "result": {
+      "item": "tfc:crankshaft"
+    }
+}

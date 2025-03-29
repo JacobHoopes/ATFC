@@ -2,11 +2,11 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "tfc:glass_bottles"
     },
     {
       "fluid": "kubejs:potion_rye_whiskey",
-      "amount": 100
+      "amount": 250
     }
   ],
   "results": [
@@ -21,9 +21,14 @@
         },
         "CustomPotionEffects":[
           {
-            "Id": 3,
+            "Id": 5,
             "Amplifier": 0,
-            "Duration": 3600
+            "Duration": 6000
+          },
+          {
+            "Id": 9,
+            "Amplifier": 0,
+            "Duration": 1200
           }
         ],
         "CustomPotionColor": 13073744

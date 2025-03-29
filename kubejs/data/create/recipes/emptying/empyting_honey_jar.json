@@ -1,0 +1,17 @@
+{
+    "type": "create:emptying",
+    "ingredients": [
+      {
+        "item": "firmalife:jar/honey"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "create:honey",
+        "amount": 250
+      },
+      {
+        "item": "tfc:empty_jar"
+      }
+    ]
+}

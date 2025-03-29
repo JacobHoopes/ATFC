@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        {"id":"tfc:silica_glass_bottle", "tag": {"fluid": {"amount": 300, "FluidName":"minecraft:water"}}},
+        "tfc:hematitic_glass_bottle",
+        "tfc:olivine_glass_bottle",
+        "tfc:volcanic_glass_bottle",
+        "tfc:wooden_bucket",
+        "minecraft:water_bucket",
+        "tfc:metal/bucket/blue_steel",
+        "tfc:metal/bucket/red_steel",
+        "tfc:ceramic/jug"
+    ]
+}

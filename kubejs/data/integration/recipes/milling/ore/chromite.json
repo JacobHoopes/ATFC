@@ -1,0 +1,15 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "firmalife:ore/small_chromite"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:crushed_chromium_ore",
+        "chance": 0.2
+      }
+    ],
+    "processingTime": 100
+}

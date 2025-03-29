@@ -1,0 +1,11 @@
+{
+  "ingredient": "kubejs:potion_strong_mead",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:night_vision",
+      "duration": 6000,
+      "amplifier": 0
+    }
+  ]
+}

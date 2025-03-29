@@ -1,0 +1,38 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tfc:glass_bottles"
+    },
+    {
+      "fluid": "tfc:rum",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Rum Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 13,
+            "Amplifier": 0,
+            "Duration": 1800
+          },
+          {
+            "Id": 9,
+            "Amplifier": 0,
+            "Duration": 1800
+          }
+        ],
+        "CustomPotionColor": 7209250
+      }
+    }
+  ]
+}

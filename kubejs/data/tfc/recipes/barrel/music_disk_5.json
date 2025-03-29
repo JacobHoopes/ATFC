@@ -1,0 +1,17 @@
+{
+    "type": "tfc:barrel_sealed",
+    "input_item": {
+      "ingredient": {
+        "item": "tfc:blank_disc"
+       }
+    },
+    "input_fluid": {
+      "ingredient": "tfc:whiskey",
+        "amount": 25
+    },
+    "output_item": {
+      "item": "minecraft:music_disc_5",
+      "count": 1
+    },
+    "duration": 1000
+}

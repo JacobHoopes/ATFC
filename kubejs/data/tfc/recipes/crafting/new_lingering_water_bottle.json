@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "tfc:glass_bottles"
+    },
+    {
+      "item": "tfc:powder/flux"
+    },
+    {
+      "item": "tfc:jacks"
+    },
+    {
+      "tag": "integration:holds_water"
+    },
+    {
+      Item.of('minecraft:bucket')
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_concrete"
+  }
+}
+

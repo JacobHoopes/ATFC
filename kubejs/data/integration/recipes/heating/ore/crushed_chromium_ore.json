@@ -1,0 +1,11 @@
+{
+    "type": "tfc:heating",
+    "ingredient": {
+        "item": "kubejs:crushed_chromium_ore"
+    },
+    "result_fluid": {
+        "fluid": "firmalife:metal/chromium",
+        "amount": 100
+    },
+    "temperature": 1250
+}

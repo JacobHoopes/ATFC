@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "create:fluid_pipe"
+      }
+    ],
+    "result": {
+      "item": "firmalife:copper_pipe",
+      "count": 2
+    }
+}

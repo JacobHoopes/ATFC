@@ -2,11 +2,11 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "tfc:glass_bottles"
     },
     {
       "fluid": "kubejs:potion_sake",
-      "amount": 100
+      "amount": 250
     }
   ],
   "results": [
@@ -23,7 +23,12 @@
           {
             "Id": 10,
             "Amplifier": 0,
-            "Duration": 3600
+            "Duration": 6000
+          },
+          {
+            "Id": 9,
+            "Amplifier": 0,
+            "Duration": 1200
           }
         ],
         "CustomPotionColor": 12048827

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "II",
+      "KK"
+    ],
+    "key": {
+      "I": {
+        "item": "create:andesite_alloy"
+      },
+      "K": {
+        "item": "tfc:food/dried_kelp"
+      }
+    },
+    "result": {
+      "item": "create:andesite_tunnel",
+      "count": 2
+    }
+}

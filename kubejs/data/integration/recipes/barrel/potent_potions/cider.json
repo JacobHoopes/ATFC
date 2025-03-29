@@ -1,0 +1,11 @@
+{
+  "type": "tfc:barrel_sealed",
+  "input_fluid": {
+    "ingredient": "tfc:cider",
+    "amount": 1000
+  },
+  "output_item": {
+    "item": "kubejs:potion_potent_cider"
+  },
+  "duration": 8000
+}

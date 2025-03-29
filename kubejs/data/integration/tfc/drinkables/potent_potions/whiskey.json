@@ -1,0 +1,21 @@
+{
+  "ingredient": "kubejs:potion_potent_whiskey",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:haste",
+      "duration": 3600,
+      "amplifier": 1
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 6000,
+      "amplifier": 0
+    },
+    {
+      "type": "minecraft:poison",
+      "duration": 100,
+      "amplifier": 0
+    }
+  ]
+}

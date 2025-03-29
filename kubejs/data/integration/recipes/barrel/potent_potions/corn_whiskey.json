@@ -1,0 +1,11 @@
+{
+  "type": "tfc:barrel_sealed",
+  "input_fluid": {
+    "ingredient": "tfc:corn_whiskey",
+    "amount": 1000
+  },
+  "output_item": {
+    "item": "kubejs:potion_potent_corn_whiskey"
+  },
+  "duration": 8000
+}

@@ -1,0 +1,16 @@
+{
+  "ingredient": "firmalife:mead",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:night_vision",
+      "duration": 1800,
+      "amplifier": 0
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 1800,
+      "amplifier": 0
+    }
+  ]
+}

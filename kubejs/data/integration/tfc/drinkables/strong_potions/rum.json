@@ -3,9 +3,9 @@
   "thirst": 10,
   "effects": [
     {
-      "type": "minecraft:strength",
-      "duration": 2400,
-      "amplifier": 1
+      "type": "minecraft:water_breathing",
+      "duration": 6000,
+      "amplifier": 0
     }
   ]
 }

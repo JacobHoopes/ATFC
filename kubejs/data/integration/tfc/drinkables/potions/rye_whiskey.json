@@ -3,8 +3,13 @@
   "thirst": 10,
   "effects": [
     {
-      "type": "minecraft:haste",
-      "duration": 4800,
+      "type": "minecraft:strength",
+      "duration": 6000,
+      "amplifier": 0
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 1200,
       "amplifier": 0
     }
   ]

@@ -1,0 +1,16 @@
+{
+  "ingredient": "kubejs:potion_mead",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:night_vision",
+      "duration": 3600,
+      "amplifier": 0
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 600,
+      "amplifier": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ingredient": "tfc:rye_whiskey",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:strength",
+      "duration": 3600,
+      "amplifier": 0
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 3600,
+      "amplifier": 0
+    }
+  ]
+}

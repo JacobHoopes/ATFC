@@ -43,6 +43,10 @@ ServerEvents.recipes(event => // changed onEvent here
 	event.remove({input: 'minecraft:honeycomb'})
 	event.remove({input: 'minecraft:honeycomb_block'})
 	event.remove({input: 'create:cinder_flour'})
+	event.remove({input: 'minecraft:honey_bottle'})
+	event.remove({output: 'minecraft:honey_bottle'})
+	event.remove({id: 'minecraft:honey_block'})
+	event.remove({id: 'create:filling/honeyed_apple'})
 
 
 
@@ -61,6 +65,20 @@ ServerEvents.recipes(event => // changed onEvent here
 
 	event.remove({id: 'create:mixing/cardboard_pulp'})
 	event.remove({input: 'create:zinc_nugget'})
+	event.remove({input: 'minecraft:disc_fragment_5'})
+	event.remove({id: 'integration:crafting/pigstep_disc'})
+	event.remove({id: 'minecraft:glass'})
+	event.remove({id: 'minecraft:glass_bottle'})
+	
+	event.remove({id: 'minecraft:end_crystal'})
+
+	event.remove({id: 'tfc:crafting/lingering_water_bottle'})
+	event.remove({id: 'tfc:crafting/lingering_water_bottle_from_lemon'})
+
+	event.remove({id: 'tfc:crafting/vanilla/tinted_glass'})
+	event.remove({id: 'minecraft:dried_kelp_block'})
+	event.remove({input: 'minecraft:dried_kelp'})
+	event.remove({id: 'minecraft:netherite_upgrade_smithing_template'})
 	
 
 	//removed to prevent access
@@ -98,6 +116,45 @@ ServerEvents.recipes(event => // changed onEvent here
 	event.remove({output: 'create:brass_nugget'})
 	event.remove({output: 'create:experience_nugget'})
 
+	// event.remove({id: 'tfc:crafting/wood/acacia_axle'})
+	// event.remove({input: 'tfc:wood/axle/acacia'})
+	// event.remove({id: 'tfc:crafting/wood/ash_axle'})
+	// event.remove({input: 'tfc:wood/axle/ash'})
+	// event.remove({id: 'tfc:crafting/wood/aspen_axle'})
+	// event.remove({input: 'tfc:wood/axle/aspen'})
+	// event.remove({id: 'tfc:crafting/wood/birch_axle'})
+	// event.remove({input: 'tfc:wood/axle/birch'})
+	// event.remove({id: 'tfc:crafting/wood/chestnut_axle'})
+	// event.remove({input: 'tfc:wood/axle/chestnut'})
+	// event.remove({id: 'tfc:crafting/wood/douglas_fir_axle'})
+	// event.remove({input: 'tfc:wood/axle/douglas_fir'})
+	// event.remove({id: 'tfc:crafting/wood/hickory_axle'})
+	// event.remove({input: 'tfc:wood/axle/hickory'})
+	// event.remove({id: 'tfc:crafting/wood/kapok_axle'})
+	// event.remove({input: 'tfc:wood/axle/kapok'})
+	// event.remove({id: 'tfc:crafting/wood/mangrove_axle'})
+	// event.remove({input: 'tfc:wood/axle/mangrove'})
+	// event.remove({id: 'tfc:crafting/wood/maple_axle'})
+	// event.remove({input: 'tfc:wood/axle/maple'})
+	// event.remove({id: 'tfc:crafting/wood/oak_axle'})
+	// event.remove({input: 'tfc:wood/axle/oak'})
+	// event.remove({id: 'tfc:crafting/wood/palm_axle'})
+	// event.remove({input: 'tfc:wood/axle/palm'})
+	// event.remove({id: 'tfc:crafting/wood/pine_axle'})
+	// event.remove({input: 'tfc:wood/axle/pine'})
+	// event.remove({id: 'tfc:crafting/wood/rosewood_axle'})
+	// event.remove({input: 'tfc:wood/axle/rosewood'})
+	// event.remove({id: 'tfc:crafting/wood/sequoia_axle'})
+	// event.remove({input: 'tfc:wood/axle/sequoia'})
+	// event.remove({id: 'tfc:crafting/wood/spruce_axle'})
+	// event.remove({input: 'tfc:wood/axle/spruce'})
+	// event.remove({id: 'tfc:crafting/wood/sycamore_axle'})
+	// event.remove({input: 'tfc:wood/axle/sycamore'})
+	// event.remove({id: 'tfc:crafting/wood/white_cedar_axle'})
+	// event.remove({input: 'tfc:wood/axle/white_cedar'})
+	// event.remove({id: 'tfc:crafting/wood/willow_axle'})
+	// event.remove({input: 'tfc:wood/axle/willow'})
+	
 
 	// console.log('Hello! The recipe event has fired!')
 

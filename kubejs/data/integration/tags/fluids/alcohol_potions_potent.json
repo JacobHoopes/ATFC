@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+      "kubejs:potion_potent_beer",
+      "kubejs:potion_potent_cider",
+      "kubejs:potion_potent_rum",
+      "kubejs:potion_potent_sake",
+      "kubejs:potion_potent_vodka",
+      "kubejs:potion_potent_whiskey",
+      "kubejs:potion_potent_corn_whiskey",
+      "kubejs:potion_potent_rye_whiskey",
+      "kubejs:potion_potent_mead"
+    ]
+}

@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "#integration:alcohol_potions_weak",
+    "#integration:alcohol_potions_potent",
     "#integration:alcohol_potions",
     "#integration:alcohol_potions_strong"
   ]

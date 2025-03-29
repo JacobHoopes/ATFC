@@ -8,6 +8,7 @@
       "kubejs:potion_strong_vodka",
       "kubejs:potion_strong_whiskey",
       "kubejs:potion_strong_corn_whiskey",
-      "kubejs:potion_strong_rye_whiskey"
+      "kubejs:potion_strong_rye_whiskey",
+      "kubejs:potion_strong_mead"
     ]
 }

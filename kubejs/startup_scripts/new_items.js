@@ -2,6 +2,7 @@
 StartupEvents.registry('item', event => // changed onEvent here
 {
     event.create('crushed_bismuth_ore').displayName('Crushed Bismuth Ore')
+    event.create('crushed_chromium_ore').displayName('Crushed Chromium Ore')
     event.create('crushed_nickel_ore').displayName('Crushed Nickel Ore')
     event.create('crushed_silver_ore').displayName('Crushed Silver Ore')
     event.create('crushed_tin_ore').displayName('Crushed Tin Ore')

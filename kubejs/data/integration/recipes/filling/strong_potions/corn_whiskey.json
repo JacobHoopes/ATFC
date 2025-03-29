@@ -2,11 +2,11 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "tfc:glass_bottles"
     },
     {
       "fluid": "kubejs:potion_strong_corn_whiskey",
-      "amount": 100
+      "amount": 250
     }
   ],
   "results": [
@@ -21,9 +21,9 @@
         },
         "CustomPotionEffects":[
           {
-            "Id": 3,
-            "Amplifier": 1,
-            "Duration": 1800
+            "Id": 28,
+            "Amplifier": 0,
+            "Duration": 6000
           }
         ],
         "CustomPotionColor": 14272438

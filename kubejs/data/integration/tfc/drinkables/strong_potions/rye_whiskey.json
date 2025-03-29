@@ -3,8 +3,8 @@
   "thirst": 10,
   "effects": [
     {
-      "type": "minecraft:haste",
-      "duration": 2400,
+      "type": "minecraft:strength",
+      "duration": 6000,
       "amplifier": 1
     }
   ]

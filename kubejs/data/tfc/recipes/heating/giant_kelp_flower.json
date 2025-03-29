@@ -4,7 +4,7 @@
       "tag": "integration:kelp"
     },
     "result_item": {
-      "item": "minecraft:dried_kelp"
+      "item": "tfc:food/dried_kelp"
     },
     "temperature": 200
 }

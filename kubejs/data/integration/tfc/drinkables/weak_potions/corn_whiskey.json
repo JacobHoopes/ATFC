@@ -1,0 +1,16 @@
+{
+  "ingredient": "tfc:corn_whiskey",
+  "thirst": 10,
+  "effects": [
+    {
+      "type": "minecraft:slow_falling",
+      "duration": 1800,
+      "amplifier": 0
+    },
+    {
+      "type": "minecraft:nausea",
+      "duration": 1800,
+      "amplifier": 0
+    }
+  ]
+}

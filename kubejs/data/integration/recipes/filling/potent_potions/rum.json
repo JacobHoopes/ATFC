@@ -1,0 +1,43 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tfc:glass_bottles"
+    },
+    {
+      "fluid": "kubejs:potion_potent_rum",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Potent Rum Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 13,
+            "Amplifier": 0,
+            "Duration": 3600
+          },
+          {
+            "Id": 9,
+            "Amplifier": 0,
+            "Duration": 6000
+          },
+          {
+            "Id": 19,
+            "Amplifier": 0,
+            "Duration": 100
+          }
+        ],
+        "CustomPotionColor": 7209250
+      }
+    }
+  ]
+}

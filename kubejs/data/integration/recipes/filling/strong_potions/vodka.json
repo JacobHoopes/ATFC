@@ -2,11 +2,11 @@
   "type": "create:filling",
   "ingredients": [
     {
-      "item": "minecraft:glass_bottle"
+      "tag": "tfc:glass_bottles"
     },
     {
       "fluid": "kubejs:potion_strong_vodka",
-      "amount": 100
+      "amount": 250
     }
   ],
   "results": [
@@ -23,7 +23,7 @@
           {
             "Id": 22,
             "Amplifier": 1,
-            "Duration": 1800
+            "Duration": 6000
           }
         ],
         "CustomPotionColor": 14474459

@@ -1,0 +1,38 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "tfc:glass_bottles"
+    },
+    {
+      "fluid": "tfc:corn_whiskey",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:splash_potion",
+      "nbt":
+      {
+        "Potion": "minecraft:water",
+        "display":
+        {
+          "Name": "{\"text\":\"Corn Whiskey Splash Potion\",\"italic\":false}"
+        },
+        "CustomPotionEffects":[
+          {
+            "Id": 28,
+            "Amplifier": 0,
+            "Duration": 1800
+          },
+          {
+            "Id": 9,
+            "Amplifier": 0,
+            "Duration": 1800
+          }
+        ],
+        "CustomPotionColor": 14272438
+      }
+    }
+  ]
+}
